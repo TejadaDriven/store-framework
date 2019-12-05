@@ -13,7 +13,7 @@
     },
     "search-result-layout.customQuery": {
         "props": {
-            "QuerySchema": {
+            "querySchema": {
                 "maxItemsPerPage": 8,
                 "queryField": "Blue Top Retro Camera",
                 "mapField": "ft",
