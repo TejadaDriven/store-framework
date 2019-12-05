@@ -60,7 +60,7 @@
       "tab-list.item#home2": {
         "props": {
           "tabId": "electronics",
-          "label": "Eletronics"
+          "label": "Electronics"
         }
       },
       "tab-content#home": {
