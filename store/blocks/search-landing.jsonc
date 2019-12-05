@@ -12,9 +12,9 @@
         }
     },
     "search-result-layout.customQuery": {
-        "QuerySchema": {
-            "props": {
-                "maxItemsPerPage": "8",
+        "props": {
+            "QuerySchema": {
+                "maxItemsPerPage": 8,
                 "queryField": "Blue Top Retro Camera",
                 "mapField": "ft",
                 "hideUnavailableItems": "true",
